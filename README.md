@@ -12,4 +12,4 @@ A python script that can be used to organize and rename your local Plex TV Shows
 - Python 3.x 
 
 ## How to use
-- Simply launch app_gui.py
+- Simply launch app_gui.py or compile it with pyinstaller to create an .exe file
