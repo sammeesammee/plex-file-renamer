@@ -52,8 +52,8 @@ Despite being built on pure vibes and trial-and-error, the tool turned out surpr
 If you don't have Python installed or don't want to deal with terminals, I compiled an executable for you:
 
 1. Go to the `dist/` folder in this repository.
-2. Run the executable file found inside (`app_gui_2.exe` or equivalent for your OS).
-3. Pray that Windows Defender or macOS Gatekeeper doesn't panic.
+2. Run the executable file found inside (`app_gui.exe`).
+3. Pray that Windows Defender doesn't panic.
 
 ```text
 /
